@@ -30,15 +30,7 @@ The project includes data preprocessing, feature engineering, model training, ev
 
 ## 🚀 Quick Start
 
-### Option 1: Run in Google Colab (No Installation Required)
-
-<p align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://colab.research.google.com/github/Harrypatria/predictive-maintenance/blob/main/pred_maintenance.ipynb" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
-  </a>
-</p>
-
-### Option 2: Local Installation
+### Local Installation
 
 ```bash
 # Clone the repository
