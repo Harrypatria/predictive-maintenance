@@ -11,7 +11,9 @@
 
 </div>
 
-![](https://j.gifs.com/76kDrQ.gif)
+<p align="center">
+  <img src="https://j.gifs.com/76kDrQ.gif" alt="animated gif">
+</p>
 
 ## 🌟 Overview
 
