@@ -11,6 +11,8 @@
 
 </div>
 
+![](https://j.gifs.com/76kDrQ.gif)
+
 ## 🌟 Overview
 
 A comprehensive implementation of predictive maintenance using machine learning, designed for industrial equipment and IoT applications. This repository demonstrates how to predict equipment failures before they occur, optimize maintenance schedules, and reduce downtime.
